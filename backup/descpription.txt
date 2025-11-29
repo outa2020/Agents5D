@@ -1,0 +1,17 @@
+Description
+link
+keyboard_arrow_up
+This capstone project is an opportunity for you to apply what you've learned during the course week and submit it for evaluation.
+
+The high level process for a capstone project consists of:
+
+Selecting a track (and only one track) from one of the four options. This will scope the problem/use case for your project.
+Example: Concierge Agents
+Formulating a problem and solution pitch to which you will build your agent. This will hone the objective of your project.
+Example: Writing blogs is too manual and time intensive. I will be building an Automated Blog Writer Agent to scale my blog production and blog quality.
+Developing and publishing the code for your agent publicly.
+Example: Publishing the agent code to GitHub or Kaggle Notebooks.
+Being able to articulate the value of the agent by preparing a writeup.
+Example: This agent reduced my blog writing process by 10 hours per week
+For bonus points, publishing a video related to the project.
+Submitting a writeup to this competition no later than December 1, 2025 11:59AM Pacific Time. Check out "How Do I Make A Submission section" below.
